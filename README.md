@@ -72,51 +72,7 @@ Firebase services: `Auth` · `Firestore` · `FCM` · `Analytics` · `Crashlytics
 
 ---
 
-## 🚀 Projects
 
-### 📝 [Notes App](https://github.com/YOUR_GITHUB_USERNAME/YOUR_NOTES_REPO)
-`Flutter` `Firebase` `SQLite` `BLoC`
-
-- Multi-provider authentication using Firebase Auth, Firestore and SQLite
-- Offline-first notes app using BLoC, SQLite and Firestore
-- Integrated FCM, Firebase Analytics and Crashlytics for notifications and crash reporting
-
-### 🛒 [E-Commerce Shopping App](https://github.com/YOUR_GITHUB_USERNAME/YOUR_ECOMMERCE_REPO)
-`Flutter` `GetX` `Firebase` `Cloud Firestore`
-
-- Scalable cross-platform e-commerce app with GetX for reactive state and routing
-- Firebase Auth and Cloud Firestore for real-time sync of catalog, cart and orders
-- Search, image picker and checkout flow with responsive UI and optimized memory
-
-### 💬 [Feelify - Social Media & Real-Time Chat App](https://github.com/YOUR_GITHUB_USERNAME/YOUR_FEELIFY_REPO)
-`Flutter` `Firebase` `BLoC`
-
-- Real-time chat using Cloud Firestore with secure FCM HTTP v1 push notifications
-- Biometric authentication and app lock for protected messaging
-- Interactive social feed with video/image posts, emoji reactions and comments
-
----
-
-## 🎓 Education
-
-| Degree | Institute | Year |
-|---|---|---|
-| B.Tech in Computer Engineering | St. Andrews Institute of Technology and Management | 2022 - 2026 |
-| Senior Secondary (XII) | L.P Shahi College | 2020 - 2022 |
-| Secondary (X) | Patna St. Michael's School | 2018 - 2020 |
-
-## 📜 Certification
-
-- Full Stack Web Developer - Code Block Core Java, OOPS and DSA (50 Hours) - Kreativan Technologies
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
 
 ---
 
