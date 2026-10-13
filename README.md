@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preet Raj</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02A9F7&center=true&vCenter=true&width=550&lines=Flutter+Developer+📱;Cross-Platform+App+Builder;Firebase+%7C+BLoC+%7C+Riverpod+%7C+GetX;Open+to+Work+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">Flutter Developer 📱 | Cross-Platform App Builder | Open to Work 🚀</h3>
+<p align="center"><i>Firebase · BLoC · Riverpod · GetX</i></p>
 
 <p align="center">
   <a href="https://github.com/impreetraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -105,7 +104,7 @@ Firebase services I use: `Auth` · `Firestore` · `FCM` · `Analytics` · `Crash
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=impreetraj&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://ghchart.rshah.org/0e75b6/impreetraj" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
