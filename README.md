@@ -9,9 +9,7 @@
   <a href="mailto:preetrajoffical@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impreetraj&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+
 
 ---
 
